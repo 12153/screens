@@ -13,16 +13,8 @@ npm install --save screens
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
+no usage yet
 
-import MyComponent from 'screens'
-import 'screens/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
 ```
 
 ## License
